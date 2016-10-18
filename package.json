@@ -18,5 +18,8 @@
   "homepage": "https://github.com/bklee18/mern-tut#readme",
   "dependencies": {
     "express": "^4.14.0"
+  },
+  "devDependencies": {
+    "babel-preset-react": "^6.16.0"
   }
 }
